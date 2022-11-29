@@ -1,0 +1,35 @@
+{
+  "articles": [
+    {
+    "source": {
+				id: null,
+				name: "Peter.com"
+			},
+			"author": "IANS",
+			"title": "Jesus Loves you",
+			"description": " good news",
+			"url": "https://sites.google.com/view/gogotred/home",
+			"urlToImage": "https://photos.app.goo.gl/qAAc3siELeCHvAVT6",
+			"publishedAt": "2022-11-27T05:26:17Z",
+			"content": "Elon Musk on Sunday revealed his Twitter 2.0 -- The Everything App, saying that the new user signups are at an all-time high and the company is now actively recruiting.\r\nMusk, who sacked more than ha… [+1220 chars]"
+			
+    },
+    
+    {
+      source: {
+				id: null,
+				name: "nossa.com"
+			},
+			author: "IANS",
+			title: "2.0: Musk says top software aces joining Twitter - Greatandhra",
+			description: "Elon Musk on Sunday revealed his Twitter 2.0 -- The Everything App, saying that the new user signups are at an all-time high and the company is now actively recruiting.",
+			url: "https://sites.google.com/view/gogotred/home",
+			urlToImage: "https://photos.app.goo.gl/qAAc3siELeCHvAVT6",
+			publishedAt: "2022-11-27T05:26:17Z",
+			content: "Elon Musk on Sunday revealed his Twitter 2.0 -- The Everything App, saying that the new user signups are at an all-time high and the company is now actively recruiting.\r\nMusk, who sacked more than ha… [+1220 chars]"
+			
+    }
+    
+    
+    ]
+}
